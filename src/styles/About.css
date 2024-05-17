@@ -1,0 +1,32 @@
+/* about.css or a global stylesheet */
+
+/* about.css or a global stylesheet */
+
+.about-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background: linear-gradient(to bottom, #2e2929, #1b2525); /* Gray gradient */
+    padding: 2rem;
+  }
+  
+  
+  .about-content {
+    max-width: 800px;
+    text-align: center;
+  }
+  
+  .about-heading {
+    font-size: 2.5rem; /* Adjust heading size as needed */
+    font-weight: bold;
+    margin-bottom: 1rem;
+    color:white;
+  }
+  
+  .about-text {
+    font-size: 1.1rem; /* Adjust paragraph size as needed */
+    line-height: 1.5; /* Improves readability */
+    color: white;
+  }
+  
